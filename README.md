@@ -27,34 +27,45 @@ I work on:
 I believe in building **real systems, not tutorial projects.**
 
 ---
+## 🛠️ Tech Stack  
 
-## 🚀 Technical Skills  
+### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### Programming Languages  
-- Java  
-- Python  
-- JavaScript   
+---
 
-### Backend & APIs  
-- Spring Boot  
-- RESTful APIs  
-- JWT Authentication  
-- Microservices Architecture  
+### ⚙️ Backend & APIs  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-darkgreen?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-purple?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-black?style=for-the-badge)
 
-### Data Science & Machine Learning  
-- Pandas, NumPy  
-- Scikit-Learn  
-- TensorFlow / Keras  
-- NLP & LSTM / BiLSTM Models  
+---
 
-### Databases  
-- MySQL  
-- Oracle SQL
+### 📊 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-lightblue?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![NLP](https://img.shields.io/badge/NLP-Processing-blue?style=for-the-badge)
+![BiLSTM](https://img.shields.io/badge/BiLSTM-Models-purple?style=for-the-badge)
 
-### DevOps & Tools  
-- Git & GitHub   
-- Postman  
-- VS Code  
+---
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-red?style=for-the-badge&logo=oracle)
+
+---
+
+### 🧰 DevOps & Tools  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
