@@ -49,18 +49,10 @@ I believe in building **real systems, not tutorial projects.**
 
 ### Databases  
 - MySQL  
-- PostgreSQL  
-- Firebase Firestore  
-
-### Frontend  
-- React  
-- TypeScript  
-- Tailwind CSS  
+- Oracle SQL
 
 ### DevOps & Tools  
-- Git & GitHub  
-- Docker  
-- Linux  
+- Git & GitHub   
 - Postman  
 - VS Code  
 
