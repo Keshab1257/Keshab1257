@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Krushna_Keshab_Jena&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Software Engineer | Data Science | Full-Stack | AI-Driven Systems</h3>
+<h3 align="center">Software Engineer | Data Science| ML Enthusiast | Full-Stack | AI-Driven Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krushna-keshab-jena-2602862a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
