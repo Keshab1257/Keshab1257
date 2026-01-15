@@ -111,7 +111,7 @@ I believe in building **real systems, not tutorial projects.**
 
 ## 📫 Let’s Connect  
 
-- LinkedIn → https://www.linkedin.com/in/Krushna Keshab Jena/  
+- LinkedIn → https://www.linkedin.com/in/krushna-keshab-jena-2602862a3/
 - Email → princgudu@gmail.com  
 
 ---
