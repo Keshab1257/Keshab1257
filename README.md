@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Krushna Keshab Jena&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Krushna_Keshab_Jena&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Software Engineer | Data Science| ML Enthusiast | Full-Stack | AI-Driven Systems</h3>
